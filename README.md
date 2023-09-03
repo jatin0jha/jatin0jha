@@ -19,9 +19,9 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## Find me around the web 🌎 
-- Struggling on <a href="https://www.leetcode.com/indresh149/">LeetCode</a> 😍
-- Practising on <a href="https://www.codeforces.com/profile/indresh139/">Codeforces</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/indreshgoswami/">LinkedIn</a> 😇
+- Struggling on <a href="https://www.leetcode.com/">LeetCode</a> 😍
+- Practising on <a href="https://www.codeforces.com/profile/">Codeforces</a> 🙃
+- Sharing updates on [Linkedin](https://www.linkedin.com/in/jatin-jha-8b7633220/) 😇
 
 
 
@@ -31,9 +31,7 @@
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://cplusplus.com/doc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/typescript.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -51,42 +49,6 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) <a href="https://icons8.com/icon/04OFrkjznvcd/android-studio">Android Studio icon by Icons8</a> <a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a> <a href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a> <a href="https://icons8.com/icon/117121/pycharm">PyCharm icon by Icons8</a> <a href="https://icons8.com/icon/61466/intellij-idea">IntelliJ IDEA icon by Icons8</a> <a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019">Visual Studio Code 2019 icon by Icons8</a><a href="https://icons8.com/icon/199gSvrFfCIJ/anaconda">Anaconda icon by Icons8</a><a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019">Visual Studio Code 2019 icon by Icons8</a>-->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/indresh149/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Indresh Goswami's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=indresh149&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/indresh149/github-readme-stats"><img alt="Indresh Goswami's Github Stats" src="https://github-readme-stats.vercel.app/api?username=indresh149&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="github-readme-stats"><img alt="Indresh Goswami's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indresh149&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/indresh149/github-readme-activity-graph"><img alt="Indresh Goswami's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=indresh149&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-## Watch my contributions get eaten by a snake 🐍
-
-![snake gif](https://github.com/indresh149/indresh149/blob/output/github-contribution-grid-snake.gif)
-
-<h3 align="start">hacktoberfest Badge 🔥👇🏻👇🏻👇🏻👇🏻</h3>
-
-[![@indresh149's Holopin board](https://holopin.io/api/user/board?user=indresh149)](https://holopin.io/@indresh149)
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indresh149" alt="indresh149" /></a> </p>
 
 ## Connect with me:
 <p align="left">
