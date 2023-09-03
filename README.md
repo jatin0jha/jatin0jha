@@ -66,5 +66,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=indresh149">
 </a>
-<a href="https://github.com/indresh149?tab=followers"><img src="https://img.shields.io/github/followers/indresh149?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/jatin0jha?tab=followers"><img src="https://img.shields.io/github/followers/jatin0jha?label=Followers&style=social" alt="GitHub Badge"></a>
 
