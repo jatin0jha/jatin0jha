@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying in **[Galgotias University](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently studying in **[Galgotias University](https://www.galgotiasuniversity.edu.in/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[Git hub](https://.com)**
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/jatin0jha)**
 
 - 📫 How to reach me **[jatinjha83@gmail.com](mailto:jatinjha83@gmail.com)**
 
