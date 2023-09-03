@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jatin</h1>
-<h3 align="center">I'm a passionate Android Developer from India.</h3>
+<h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[Git hub](https://.com)**
 
-- 📫 How to reach me **indreshgoswami149@gmail.com**
+- 📫 How to reach me **[jatinjha83@gmail.com](mailto:jatinjha83@gmail.com)**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
