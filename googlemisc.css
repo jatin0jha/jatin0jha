@@ -1,0 +1,193 @@
+
+        body {
+            background-color: rgb(246, 246, 246);
+            color: black;
+            margin: 0;
+            padding: 0;
+            font-family: system-ui, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            padding: 30px 50px;
+            align-items: center;
+        }
+
+        .sticky-header {
+            position: sticky;
+            top: 0;
+            background-color: white;
+        }
+
+        nav {
+            display: flex;
+            align-items: center;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin: 0 20px;
+        }
+
+        nav ul li a {
+            color: rgb(107, 107, 107);
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .logo {
+            height: 50px;
+        }
+
+        .nav-img {
+            height: 30px;
+            margin: 0 10px;
+        }
+
+        main {
+            display: none;
+        }
+
+        main:target {
+            display: block;
+        }
+
+        .banner {
+            aspect-ratio: 3;
+            width: 100%;
+            background-image: linear-gradient(to bottom,
+                    rgba(0, 0, 0, 0) 0,
+                    rgba(0, 0, 0, 0.821) 100%), url(https://c.pxhere.com/photos/a3/6c/chair_living_room_indoor_decor_flat-181502.jpg!d);
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        .banner p {
+            color: white;
+            font-size: 27px;
+            font-weight: 300;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .categories {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            max-width: 1400px;
+            margin: auto;
+        }
+
+        button {
+            margin: 10px;
+        }
+
+        .categories a {
+            margin: 10px;
+            height: 50vh;
+            background-color: rgb(255, 255, 255);
+            color: white;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        .categories a:hover {
+            animation: slowBackgroundSize 20s linear;
+        }
+
+        @keyframes slowBackgroundSize {
+            from {
+                background-size: 140%;
+            }
+
+            to {
+                background-size: 300%;
+            }
+        }
+
+
+        .cat-crd {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 35vh;
+        }
+
+        hr {
+            border: .3px solid rgb(220, 220, 220);
+            margin: 0;
+        }
+
+        footer {
+            padding: 50px;
+            background-color: rgb(248, 248, 248);
+        }
+
+        .foot-logo {
+            height: 300px;
+            margin: -100px;
+        }
+
+        .foot-clmn {
+            max-width: 25%;
+        }
+
+        .foot-clmn ul {
+            list-style: none;
+        }
+
+        .foot-clmn ul li a {
+            color: rgb(108, 108, 108);
+        }
+
+        .hot-prod-img {
+            aspect-ratio: 1;
+            min-width: 45%;
+            margin: 0 20px;
+            background-color: rgb(216, 237, 255);
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-image: url(https://s.alicdn.com/@sc04/kf/H4300a50029754c0186686d07c01fa7b7E.jpeg_960x960.jpeg);
+        }
+
+        .hot-prod {
+            display: flex;
+            padding-top: 100px;
+        }
+
+        .cat-grid {
+            display: grid;
+            grid-template-columns: auto auto auto auto;
+            gap: 20px;
+        }
+
+       /*.cat-crd {
+            background-image: ;
+        }*/
+
+        .prod-cat-img {
+            background-color: black;
+            width: 100%;
+            aspect-ratio: 1;
+        }
+
+        .prod-cat-img:hover {
+            background-color: grey;
+        }
+
+        .product-title {
+            text-align: center;
+            margin: 10px;
+            color: black;
+            font-weight: 300;
+            line-height: 1.5;
+        }
