@@ -167,7 +167,6 @@ products.forEach(product => {
     const productPrice = document.createElement('p');
     productPrice.style.textAlign = 'center';
     productPrice.style.color = 'black';
-    productPrice.innerHTML = `${product.price} <s style="color: rgb(170, 170, 170)">${product.originalPrice}</s>`;
 
     productLink.appendChild(productImage);
     productLink.appendChild(productTitle);
