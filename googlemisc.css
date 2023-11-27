@@ -21,6 +21,10 @@
     background-color: white;
   }
 
+  .mob-logo{
+    display: none;
+  }
+
   nav {
     display: flex;
     align-items: center;
@@ -177,7 +181,7 @@
 
   .product-title {
     text-align: center;
-    margin: 10px;
+    padding: 10px;
     color: black;
     font-weight: 300;
     line-height: 1.5;
@@ -655,6 +659,7 @@
 }
 
 @media (max-width:800px){
+
     
   .home-cat-cont{
     margin: 20px;
@@ -712,6 +717,14 @@
 @media (max-width:630px){
   nav ul{
     display: none;
+  }
+  .logo{
+    display: none;
+  }
+
+  .mob-logo{
+    height: 50px;
+    display: block;
   }
   .category-cards{
     grid-template-columns: 1fr;
