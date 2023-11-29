@@ -768,6 +768,19 @@
 
 @media (max-width:800px){
 
+  .product-flex{
+    grid-template-columns: 1fr;
+    margin: 5px;
+  }
+
+  .slider-height-padding{
+    padding-top: 420px;
+  }
+
+  .padding-tb{
+    padding: 0;
+  }
+
   footer {
     padding: 20px;
   }
