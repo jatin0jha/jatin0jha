@@ -587,7 +587,7 @@
     text-decoration: 1.5px underline gray;
   }
   .home-cat-cont{
-    margin: 20px;
+    margin: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 10px;
@@ -773,7 +773,7 @@
   }
     
   .home-cat-cont{
-    margin: 20px;
+    margin: 10px;
     display: grid;
     grid-template-columns: 1fr;
     gap: 10px;
@@ -787,9 +787,6 @@
 
   .home-cat-cont div a{
     display: flex;
-  }
-  .home-cat-cont div a div{
-    min-width: 200px;
   }
 
   .home-cat-cont div a div p{
@@ -826,7 +823,6 @@
     flex-direction: column;
   }
   .home-cat-cont{
-    margin: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 10px;
