@@ -45,7 +45,7 @@
 
 ## Connect with me:
 <p align="left">
-    <a href="https://www.linkedin.com/in/jatin-jha-8b7633220/">Linkedin</a>
+    <a href="https://www.linkedin.com/in/jatin-jha-8b7633220/"></a>
     <a href="https://www.youtube.com/@_jatinjha">Youtube</a>
 </p>
 
