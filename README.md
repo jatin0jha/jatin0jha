@@ -45,14 +45,8 @@
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/indreshgoswami/"><img src="https://icons8.com/icon/446/linkedin"/></a>
-<a href = "https://twitter.com/IndreshGoswami5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/indreshgoswami5/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCjHyzCYCy_rlzNhGEocGrYQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://discord.gg/zV3u3BxQ"><img src="https://img.icons8.com/color/50/000000/discord-new-logo.png"/></a>
-
-
+    <a href="https://www.linkedin.com/in/jatin-jha-8b7633220/">Linkedin</a>
+    <a href="https://www.youtube.com/@_jatinjha">Youtube</a>
 </p>
 
 ## Views and Followers
