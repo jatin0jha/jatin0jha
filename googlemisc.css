@@ -155,7 +155,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(https://s.alicdn.com/@sc04/kf/H4300a50029754c0186686d07c01fa7b7E.jpeg_960x960.jpeg);
+    background-image: url(https://s.alicdn.com/@sc04/kf/A6cc9e73e93554eb5a99698f3bf4cc690q.png);
   }
 
   .hot-prod {
@@ -185,6 +185,11 @@
     color: black;
     font-weight: 300;
     line-height: 1.5;
+  }
+
+  .product-title:hover {
+    color: red;
+    text-decoration: underline;
   }
 
   .carousel-item {
@@ -241,10 +246,13 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 10px;
+    margin: 5px;
   }
 
   .product {
     text-align: center;
+    background-color: white;
+    padding: 3px;
   }
 
   .product-image {
@@ -607,7 +615,7 @@
 
   .clmns{
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr;
+    grid-template-columns: 2fr 1fr 2fr;
     gap: 10px;
   }
 
