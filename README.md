@@ -59,3 +59,9 @@
 </a>
 <a href="https://github.com/jatin0jha?tab=followers"><img src="https://img.shields.io/github/followers/jatin0jha?label=Followers&style=social" alt="GitHub Badge"></a>
 
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jatin0jha&show_icons=true" />
+</div>
