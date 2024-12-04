@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://i.gifer.com/XOsX.gif" width="70px"></p>
+<img src="https://i.gifer.com/XOsX.gif" width="100px"></p>
 
 
 ## 🙋‍♂️ About Me
