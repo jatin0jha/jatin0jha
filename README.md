@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://ask.libreoffice.org/uploads/asklibo/original/3X/0/d/0de586544bba6cc70466cd97b45686d5dcbca532.gif" width="70px"></p>
+<img src="https://i.gifer.com/XOsX.gif" width="70px"></p>
 
 
 ## 🙋‍♂️ About Me
