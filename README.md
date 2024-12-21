@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **[jatinjha83@gmail.com](mailto:jatinjha83@gmail.com)**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and make shit very often.**
 
 ## Find me around the web 🌎 
 - Struggling on <a href="https://www.leetcode.com/">LeetCode</a> 😍
