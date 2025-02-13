@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying in **[Galgotias University](https://www.galgotiasuniversity.edu.in/)**
+- 🔭 I’m a graduate from **[Galgotias University](https://www.galgotiasuniversity.edu.in/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
