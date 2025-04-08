@@ -70,5 +70,5 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jatin0jha&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jatin0jha&show_icons=true&theme=tokyonight" />
 </div>
