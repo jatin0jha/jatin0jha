@@ -63,5 +63,5 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jatin0jha&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin0jha&show_icons=true&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Stats" style="border-radius: 15px;">
 </div>
