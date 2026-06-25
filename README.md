@@ -46,3 +46,19 @@ B.Tech in Computer Science, Galgotias University (2024).
     <img src="https://komarev.com/ghpvc/?username=jatin0jha">
 </a>
 <a href="https://github.com/jatin0jha?tab=followers"><img src="https://img.shields.io/github/followers/jatin0jha?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+### Stack
+ 
+**Languages:** Python · JavaScript / TypeScript · Rust · PHP · Bash  
+**Frontend:** React · Next.js · Tauri  
+**Backend:** Node.js · FastAPI · WordPress / WooCommerce  
+**AI/ML:** PyTorch · PEFT/LoRA · Ollama · Gemini API · pdfplumber · Tesseract  
+**Infra:** Docker · ERPNext · Linux · VPS  
+**Tools:** Git · MySQL · Firebase  
+ 
+---
+ 
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jatin0jha&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
