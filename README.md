@@ -46,17 +46,3 @@ B.Tech in Computer Science, Galgotias University (2024).
     <img src="https://komarev.com/ghpvc/?username=jatin0jha">
 </a>
 <a href="https://github.com/jatin0jha?tab=followers"><img src="https://img.shields.io/github/followers/jatin0jha?label=Followers&style=social" alt="GitHub Badge"></a>
-
-## 🔍 Activity Overview  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatin0jha&theme=tokyonight" alt="GitHub Summary" style="border-radius: 15px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jatin0jha&theme=tokyonight" alt="GitHub Stats" style="border-radius: 15px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jatin0jha&theme=tokyonight&utcOffset=8" alt="Productive Time" style="border-radius: 15px;">
-</p>
-
-## 📊 My GitHub Data:
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jatin0jha&show_icons=true&theme=tokyonight" />
-</div>
