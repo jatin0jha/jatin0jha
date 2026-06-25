@@ -1,26 +1,25 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jatin</h1>
-<h3 align="center">I'm a Software Developer from India.</h3>
+<h1 align="center">Jatin Jha</h1>
+<p align="center">Software Engineer · Delhi, India</p>
+<p align="center">
+  <a href="https://jatinjha.pages.dev/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/jatin-jha-8b7633220/">LinkedIn</a> ·
+  <a href="mailto:jatinjha83@gmail.com">Email</a>
+</p>
 
 
 <p align="center">
 <img src="https://i.gifer.com/XOsX.gif" width="100px"></p>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m a graduate from **[Galgotias University](https://www.galgotiasuniversity.edu.in/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/jatin0jha)**
-
-- 📫 How to reach me **[jatinjha83@gmail.com](mailto:jatinjha83@gmail.com)**
-
-- ⚡ Fun fact **I play games and make shit very often.**
+### About
+ 
+Software engineer with experience across full-stack web, AI/ML, and infrastructure. Currently building at [Inflect](https://inflectpolicy.com) and [Golden Cruiser](https://goldencruiser.in). Founder of [Synapical](https://synapical.in) — a dev shop offering web, AI/ML, ERP/CRM, and cloud services.
+ 
+B.Tech in Computer Science, Galgotias University (2024).
+ 
+---
 
 ## Find me around the web 🌎 
 - Struggling on <a href="https://www.leetcode.com/">LeetCode</a> 😍
