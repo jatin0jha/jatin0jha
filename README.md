@@ -9,10 +9,6 @@
 </p>
 
 
-<p align="center">
-<img src="https://i.gifer.com/XOsX.gif" width="100px"></p>
-
-
 ### About
  
 Software engineer with experience across full-stack web, AI/ML, and infrastructure. Currently building at [Inflect](https://inflectpolicy.com) and [Golden Cruiser](https://goldencruiser.in). Founder of [Synapical](https://synapical.in) a dev shop offering web, AI/ML, ERP/CRM, and cloud services.
@@ -22,9 +18,8 @@ B.Tech in Computer Science, Galgotias University (2024).
 ---
 
 ## Find me around the web 🌎 
-- Struggling on <a href="https://www.leetcode.com/">LeetCode</a> 😍
-- Practising on <a href="https://www.codeforces.com/profile/">Codeforces</a> 🙃
-- Sharing updates on [Linkedin](https://www.linkedin.com/in/jatin-jha-8b7633220/) 😇
+- <a href="https://leetcode.com/u/jhajatin/">LeetCode</a> 
+- [Linkedin](https://www.linkedin.com/in/jhajatin/) 
 
 
 
