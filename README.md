@@ -15,7 +15,7 @@
 
 ### About
  
-Software engineer with experience across full-stack web, AI/ML, and infrastructure. Currently building at [Inflect](https://inflectpolicy.com) and [Golden Cruiser](https://goldencruiser.in). Founder of [Synapical](https://synapical.in) — a dev shop offering web, AI/ML, ERP/CRM, and cloud services.
+Software engineer with experience across full-stack web, AI/ML, and infrastructure. Currently building at [Inflect](https://inflectpolicy.com) and [Golden Cruiser](https://goldencruiser.in). Founder of [Synapical](https://synapical.in) a dev shop offering web, AI/ML, ERP/CRM, and cloud services.
  
 B.Tech in Computer Science, Galgotias University (2024).
  
