@@ -17,13 +17,13 @@ B.Tech in Computer Science, Galgotias University (2024).
  
 ---
 
-## Find me around the web 🌎 
+## Find me around the web
 - <a href="https://leetcode.com/u/jhajatin/">LeetCode</a> 
 - [Linkedin](https://www.linkedin.com/in/jhajatin/) 
 
 
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
