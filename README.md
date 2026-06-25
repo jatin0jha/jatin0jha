@@ -41,12 +41,20 @@ B.Tech in Computer Science, Galgotias University (2024).
 </p>
 
 
-## Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jatin0jha">
-</a>
-<a href="https://github.com/jatin0jha?tab=followers"><img src="https://img.shields.io/github/followers/jatin0jha?label=Followers&style=social" alt="GitHub Badge"></a>
-
+---
+ 
+### Projects
+ 
+| Project | Description |
+|---|---|
+| [roast-engine](https://github.com/jatin0jha/roast-engine) | Fine-tuned SmolLM 135M on roast data using LoRA/PEFT. Deployed on Ollama. |
+| [v2srt](https://github.com/jatin0jha/listening-writter) | Tauri + Rust desktop app for ASR-based subtitle generation with Hinglish transliteration. |
+| [cite](https://github.com/jatin0jha/cite) | Discord bot that renders quote images with custom emoji and Unicode support via PIL. |
+| [OpenClaw Installer](https://github.com/jatin0jha/openclaw-installer) | Interactive Node.js CLI installer with security hardening. |
+| [India Climate Analysis](https://github.com/jatin0jha/india-climate-analysis) | Data pipeline consolidating heatwave, flood, and drought data across Indian districts. |
+| [Fake News Detection API](https://github.com/jatin0jha/fake-news-detection) | ML-based REST API for classifying news articles. |
+ 
+---
 
 ### Stack
  
@@ -62,3 +70,10 @@ B.Tech in Computer Science, Galgotias University (2024).
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jatin0jha&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+
+## Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=jatin0jha">
+</a>
+<a href="https://github.com/jatin0jha?tab=followers"><img src="https://img.shields.io/github/followers/jatin0jha?label=Followers&style=social" alt="GitHub Badge"></a>
