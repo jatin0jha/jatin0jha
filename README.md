@@ -41,12 +41,6 @@ B.Tech in Computer Science, Galgotias University (2024).
 </p>
 
 
-## Connect with me:
-<p align="left">
-    <a href="https://www.linkedin.com/in/jatin-jha-8b7633220/"><imgsrc="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt=""></a>
-    <a href="https://www.youtube.com/@_jatinjha">Youtube</a>
-</p>
-
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jatin0jha">
