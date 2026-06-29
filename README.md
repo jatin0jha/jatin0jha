@@ -1,78 +1,37 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+# Jatin Jha
 
-<h1 align="center">Jatin Jha</h1>
-<p align="center">Software Engineer · Delhi, India</p>
-<p align="center">
-  <a href="https://jatinjha.pages.dev/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/jatin-jha-8b7633220/">LinkedIn</a> ·
-  <a href="mailto:jatinjha83@gmail.com">Email</a>
-</p>
-
-
-### About
- 
-Software engineer with experience across full-stack web, AI/ML, and infrastructure. Currently building at [Inflect](https://inflectpolicy.com) and [Golden Cruiser](https://goldencruiser.in). Founder of [Synapical](https://synapical.in) a dev shop offering web, AI/ML, ERP/CRM, and cloud services.
- 
-B.Tech in Computer Science, Galgotias University (2024).
- 
----
-
-## Find me around the web
-- <a href="https://leetcode.com/u/jhajatin/">LeetCode</a> 
-- [Linkedin](https://www.linkedin.com/in/jhajatin/) 
-
-
-
-## Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://cplusplus.com/doc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
-</p>
-
+Full-Stack Engineer & AI Systems Developer based in New Delhi, India.  
+I build production web systems and fine-tune language models.
 
 ---
- 
-### Projects
- 
-| Project | Description |
-|---|---|
-| [roast-engine](https://ollama.com/imded/roast-engine) | Fine-tuned SmolLM 135M on roast data using LoRA/PEFT. Deployed on Ollama. |
-| [v2srt](https://github.com/jatin0jha/listening-writter) | Tauri + Rust desktop app for ASR-based subtitle generation with Hinglish transliteration. |
-| [cite](https://github.com/jatin0jha/cite) | Discord bot that renders quote images with custom emoji and Unicode support via PIL. |
-| [OpenClaw Installer](https://github.com/jatin0jha/openclaw-installer) | Interactive Node.js CLI installer with security hardening. |
-| [Fake News Detection API](https://github.com/jatin0jha/fake-news-detection) | ML-based REST API for classifying news articles. |
- 
+
+## What I work on
+
+- **Full-Stack** — React, Next.js, Node.js, .NET Core, TypeScript
+- **AI/ML** — LLM fine-tuning (LoRA/PEFT), Gemini API, Ollama, data pipelines
+- **Backend** — Python, Flask, MSSQL, REST APIs
+- **Tools** — Docker, Azure, Google Cloud, Git
+
 ---
 
-### Stack
- 
-**Languages:** Python · JavaScript / TypeScript · Rust · PHP · Bash  
-**Frontend:** React · Next.js · Tauri  
-**Backend:** Node.js · FastAPI · WordPress / WooCommerce  
-**AI/ML:** PyTorch · PEFT/LoRA · Ollama · Gemini API · pdfplumber · Tesseract  
-**Infra:** Docker · ERPNext · Linux · VPS  
-**Tools:** Git · MySQL · Firebase  
- 
+## Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [roast-engine](https://ollama.com/imded/roast-engine) | Fine-tuned LLM for humor/roast generation, published on Ollama | Python, LoRA, PEFT, HuggingFace |
+| [v2SRT](https://github.com/jatin0jha/v2srt) | Hindi-to-Hinglish subtitle transliteration desktop app | Tauri, Rust, TypeScript |
+| [cite](https://github.com/jatin0jha/cite) | Discord bot that generates styled quote images with custom emoji rendering | Python, Pillow, Discord.py |
+| [OpenClaw Installer](https://github.com/jatin0jha/openclaw) | Hardened CLI installer for OpenClaw with security best practices | Node.js, clack |
+
 ---
- 
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jatin0jha&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
+## Currently
 
-## Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jatin0jha">
-</a>
-<a href="https://github.com/jatin0jha?tab=followers"><img src="https://img.shields.io/github/followers/jatin0jha?label=Followers&style=social" alt="GitHub Badge"></a>
+- Lead Software Engineer @ [Inflect](https://inflectpolicy.com) — policy research platform
+- Software Engineer @ Golden Cruiser — automotive services platform
+
+---
+
+## Reach me
+
+[jatinjha83@gmail.com](mailto:jatinjha83@gmail.com) · [LinkedIn](https://linkedin.com/in/jhajatin) · [Portfolio](https://jatinjha.pages.dev)
