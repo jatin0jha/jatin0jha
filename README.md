@@ -47,11 +47,10 @@ B.Tech in Computer Science, Galgotias University (2024).
  
 | Project | Description |
 |---|---|
-| [roast-engine](https://github.com/jatin0jha/roast-engine) | Fine-tuned SmolLM 135M on roast data using LoRA/PEFT. Deployed on Ollama. |
+| [roast-engine](https://ollama.com/imded/roast-engine) | Fine-tuned SmolLM 135M on roast data using LoRA/PEFT. Deployed on Ollama. |
 | [v2srt](https://github.com/jatin0jha/listening-writter) | Tauri + Rust desktop app for ASR-based subtitle generation with Hinglish transliteration. |
 | [cite](https://github.com/jatin0jha/cite) | Discord bot that renders quote images with custom emoji and Unicode support via PIL. |
 | [OpenClaw Installer](https://github.com/jatin0jha/openclaw-installer) | Interactive Node.js CLI installer with security hardening. |
-| [India Climate Analysis](https://github.com/jatin0jha/india-climate-analysis) | Data pipeline consolidating heatwave, flood, and drought data across Indian districts. |
 | [Fake News Detection API](https://github.com/jatin0jha/fake-news-detection) | ML-based REST API for classifying news articles. |
  
 ---
